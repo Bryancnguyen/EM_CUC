@@ -70,7 +70,7 @@
 
         <!-- Start: Sidebar Menu -->
         <ul class="nav sidebar-menu">
-          <li class="sidebar-label pt20">Control</li>
+          <li class="sidebar-label pt20">Controls</li>
           <li>
            <?php wp_nav_menu( array(
     'menu' => 'MenuNAV'
