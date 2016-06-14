@@ -1,0 +1,14 @@
+/*
+Theme Name: EllieMae CUC Main
+Author: Bryan Nguyen
+Description: BootStrap Envato Template converted to Wordpress
+Version: 0.0.1
+Tags: bootstrap 
+*/
+
+h2{
+	float:right;
+         display:inline
+	width:600px;
+	margin:110px 0 0 11px;
+}
